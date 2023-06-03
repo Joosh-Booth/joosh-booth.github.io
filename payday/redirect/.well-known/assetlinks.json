@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.paydayorganiser",
+      "sha256_cert_fingerprints": [
+        "9E:6C:3D:73:66:79:60:04:0A:09:36:41:E0:0C:A6:1D:C1:DB:6A:0F:74:96:94:0A:23:46:8F:D9:1E:1C:D0:98"
+      ]
+    }
+  }
+]
